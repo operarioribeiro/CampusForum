@@ -204,7 +204,7 @@
 - [The Open University](https://open.ac.uk).
 - [Transparency International](https://transparency.org).
 - [UbuWeb Open Artwork Archive](http://ubu.com).
-- [Union Of International Associations (UIA)] https://uia.org).
+- [Union Of International Associations (UIA)](https://uia.org).
 - [United Nations Business Compact](https://unglobalcompact.org).
 - [Venyon Classroom Computers Monitoring](https://veyon.io).
 - [Verisart Artworks Verification Blockchain](https://verisart.com).
