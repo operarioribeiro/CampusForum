@@ -1,6 +1,6 @@
 # [Campus Forum](https://operarioribeiro.github.com/CampusForum)
 
-> _Open source humanitarian human sciences technologies conference."_
+> _"Open source humanitarian human sciences technologies conference."_
 
 ## Open Project:
 
